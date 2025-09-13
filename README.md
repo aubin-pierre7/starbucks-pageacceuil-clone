@@ -4,7 +4,7 @@ Ce projet est une reproduction de la page d’accueil du site *Starbucks*, réal
 Il s’agit d’un exercice pratique pour ameliorer mes competences en integration web, la gestion des styles et la structuration d’une page moderne.
 
 ##  Demo
-Lien vers le site en ligne: 
+Lien vers le site en ligne: https://aubin-pierre7.github.io/starbucks-pageacceuil-clone/
 
 # Technologies utilisees
 - *HTML5*

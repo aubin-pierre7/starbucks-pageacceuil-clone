@@ -11,3 +11,7 @@ Lien vers le site en ligne: https://aubin-pierre7.github.io/starbucks-pageacceui
 - *CSS3*
 - Flexbox & Grid
 - Responsive Design
+
+- # Captures d'ecran du site en ligne grace a Github pages
+- 
+| ![Lambda](Screenshot 2025-09-15 232511.png) | ![APIGW](Screenshot 2025-09-15 232455.png) | ![Postman](Screenshot 2025-09-15 232526.png) | 

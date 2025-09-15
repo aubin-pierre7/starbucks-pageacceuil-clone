@@ -14,4 +14,8 @@ Lien vers le site en ligne: https://aubin-pierre7.github.io/starbucks-pageacceui
 
 - # Captures d'ecran du site en ligne grace a Github pages
 - 
-| ![Lambda](Screenshot 2025-09-15 232511.png) | ![APIGW](Screenshot 2025-09-15 232455.png) | ![Postman](Screenshot 2025-09-15 232526.png) | 
+Screenshot 2025-09-15 232511.png
+
+Screenshot 2025-09-15 232455.png
+
+Screenshot 2025-09-15 232526.png
